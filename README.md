@@ -1,6 +1,6 @@
 # ContentCraft: AI-Powered Content Creation Platform
 
-![ContentCraft Logo](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80)
+![ContentCraft Logo](https://pub-e93d5c9fdf134c89830082377f6df465.r2.dev/2024/07/Meta-Llama-31-1536x863.webp)
 
 ## 🚀 About ContentCraft
 
